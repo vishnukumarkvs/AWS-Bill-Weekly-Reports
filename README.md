@@ -10,11 +10,13 @@ This is an AWS Lambda function that retrieves cost and usage data for your AWS a
   - Total cost
   - Breakdown of costs by resource
 
-## Requirements
+## Tech Stack
 
 - AWS account with access to the AWS Cost Explorer API
+- AWS Lambda
 - AWS Simple Email Service (SES)
 - AWS Lambda function
+- Amazon EventBridge
 
 ## Usage
 
