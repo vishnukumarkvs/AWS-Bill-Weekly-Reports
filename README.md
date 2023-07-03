@@ -2,6 +2,8 @@
 
 This is an AWS Lambda function that retrieves cost and usage data for your AWS accounts using the AWS Cost Explorer API and sends an email report to a specified recipient.
 
+![aws_bill_report](https://github.com/vishnukumarkvs/AWS-Bill-Weekly-Reports/assets/116954249/51039694-c9f6-41e5-a274-545abdb1142d)
+
 ## Features
 
 - Retrieves cost and usage data for the current month
